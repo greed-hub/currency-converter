@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
+
+html {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(#2A6370, white) no-repeat;
+}
+
+.App {
+  text-align: center;
+}
+
+option {
+  cursor: pointer;
+}
+
+option:hover {
+  background-color: #7EB1BD;
+}
+
+.gitIcon {
+  font-size: 40px;
+  color: #2A6370;
+}
+
+.gitIcon:hover {
+  color: #5AD6F2;
+}
